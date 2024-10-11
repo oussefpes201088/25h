@@ -1,0 +1,20 @@
+{
+  "name": "24statusaccount",
+  "version": "1.0.0",
+  "description": "Description of your project",
+  "main": "index.js",
+  "scripts": {
+    "build": "your_build_command",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@types/node": "^14.14.31",
+    "discord.js-selfbot-v13": "^1.1.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
