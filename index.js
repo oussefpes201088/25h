@@ -36,15 +36,15 @@ client.on('ready', async () => {
     .setApplicationId('1265825059692609587')
     .setType('PLAYING')
     .setURL('https://www.twitch.tv/apparentlyjack_rl') 
-    .setState('Hey Nitro is here')
-    .setName('quaaxz')
-    .setDetails(`Nitro is now`)
+    .setState('my life "M" ♡⁩')
+    .setName('lamine 3mk')
+    .setDetails(`ادعوا ل امي بلرحمه`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/1041035673118965772/1270521845841657907/image_2.webp?ex=66b4012d&is=66b2afad&hm=c0fa475d23f70fc777bcea2e70d9682a9aedf2d565ae549e64552ac303361d2b&=&format=webp&width=696&height=379') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://media.discordapp.net/attachments/1294559336969801742/1295100925366505532/discord-nitro-file-1a7f05a3.png.webp?ex=670d6c3a&is=670c1aba&hm=f949f39348832c1bf46a2c58f3ca06081933554d8d0c67c44b07ea3c55f1f74f&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('Nitro') 
-    .setAssetsSmallImage('https://media.discordapp.net/attachments/1041035673118965772/1270522062095781990/checked.png?ex=66b40160&is=66b2afe0&hm=1413e3f740030479e77899e2e3bebeb05f97a80e7c0b828e6ec6e9012f86255d&=&format=webp&quality=lossless&width=768&height=768') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://media.discordapp.net/attachments/1294559336969801742/1295101424924885165/Screenshot_-2.png?ex=670d6cb1&is=670c1b31&hm=60e58a7b1a95ec2cfc60d6164e8ad11f925a5ac1b63eced1ca78dca4ba6b891b&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
-    .addButton('Google', 'https://google.com');
+    .addButton('My Facebook ', 'https://www.facebook.com/profile.php?id=61550234356710&mibextid=ZbWKwL');
 
   client.user.setActivity(r);
   client.user.setPresence({ status: "dnd" }); //dnd, online, idle, offline
