@@ -40,7 +40,7 @@ client.on('ready', async () => {
     .setName('lamine 3mk')
     .setDetails(`ادعوا ل امي بلرحمه`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/1294559336969801742/1295100925366505532/discord-nitro-file-1a7f05a3.png.webp?ex=670d6c3a&is=670c1aba&hm=f949f39348832c1bf46a2c58f3ca06081933554d8d0c67c44b07ea3c55f1f74f&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://media.discordapp.net/attachments/1293701323891408947/1295612198940446750/DiscordNitro.webp?ex=670f4863&is=670df6e3&hm=a5e416fa8f137b773aa1b7e6e44b55ab06794a7bcced0214318f67fc5c79df71&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('Nitro') 
     .setAssetsSmallImage('https://media.discordapp.net/attachments/1293701323891408947/1295611500106485832/Screenshot_-2.png?ex=670f47bc&is=670df63c&hm=20a00c0de8808e9ea3578a0fe8a3b570bb72f7e142cd2e63eec292362e610146&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
