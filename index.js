@@ -44,7 +44,7 @@ client.on('ready', async () => {
     .setAssetsLargeText('Nitro') 
     .setAssetsSmallImage('https://media.discordapp.net/attachments/1293701323891408947/1295611500106485832/Screenshot_-2.png?ex=670f47bc&is=670df63c&hm=20a00c0de8808e9ea3578a0fe8a3b570bb72f7e142cd2e63eec292362e610146&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
-    .addButton('My Facebook ', 'https://www.facebook.com/profile.php?id=61550234356710&mibextid=ZbWKwL');
+    .addButton('My Server', 'https://discord.gg/GseuvuA6');
 
   client.user.setActivity(r);
   client.user.setPresence({ status: "dnd" }); //dnd, online, idle, offline
